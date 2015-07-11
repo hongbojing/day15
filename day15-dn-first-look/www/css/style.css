@@ -1,0 +1,9 @@
+/* Empty. Add your own CSS if you like */
+@font-face{
+  font-family:'deathNote';
+  src:url('../fonts/DEATHNOTEFont.ttf');
+}
+h1,p{
+  font-family: 'deathNote';
+  font-size: 2em;
+}
